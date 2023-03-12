@@ -7,11 +7,6 @@
 body {
     font-family: Arial;
     line-height: 1.2;
-/*    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-    */
 }
 
 summary {
@@ -28,9 +23,9 @@ summary {
     position: static;
 }
 
-summary::-webkit-details-marker {
-    display: none;
-}
+ summary::-webkit-details-marker {
+    display: none; 
+} 
 
 img {
     display: flex;
@@ -75,7 +70,8 @@ img {
 }
 
 .accordeon_title:hover {
-    background-color: rgb(139, 0, 86);
+    background-color: rgb(139, 0, 86); 
+    
 }
 
 .bayan_title {
@@ -106,4 +102,4 @@ img {
         padding: 15px;
     }
     }
-}
+
