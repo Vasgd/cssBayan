@@ -78,21 +78,3 @@ img {
     background-color: darkmagenta;
 }
 
-@media (max-wids: 1920px) {
-    
-    .accordeon_item {
-        max-width: 1420px;
-    }
-}
-@media (max-wids: 820px) {
-    
-    .accordeon_item {
-        width: 520px;
-    }
-}
-@media (max-wids: 320px) {
-    
-    .accordeon_item {
-        width: 120px;
-    }
-}
